@@ -37,13 +37,13 @@ Aplicación web en producción para que un equipo de entrenadores gestione a sus
 
 ## Calidad
 
-- **{TESTS} tests** con Vitest y Testing Library, más tests de integración contra una base de datos aparte.
+- **Más de 2.000 tests** con Vitest y Testing Library, más tests de integración contra una base de datos aparte.
 - Pruebas visuales con Playwright sobre las pantallas principales.
 - Cada commit pasa ESLint, Prettier y la comprobación de tipos de TypeScript.
 
 ## En cifras
 
-| {TESTS} | 70 | 27 | 16 |
+| +2.000 | 70 | 27 | 16 |
 |:---:|:---:|:---:|:---:|
 | tests | pantallas | tablas | módulos |
 
