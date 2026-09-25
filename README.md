@@ -4,11 +4,9 @@ Aplicación web en producción para que un equipo de entrenadores gestione a sus
 
 > Código privado. Demo disponible bajo petición.
 
-<!-- CAPTURAS: añadir 3 imágenes con datos de demostración (nunca de clientes reales)
-![Panel del entrenador](./images/panel-entrenador.png)
-![Plan de dieta con macros](./images/dieta.png)
-![Seguimiento del cliente](./images/seguimiento.png)
--->
+![Vista del cliente en el móvil](./images/movil-cliente.png)
+
+<sub>Vista del cliente, pensada para el móvil: hoy, dieta, entrenamiento y progreso. Los datos de clientes reales aparecen difuminados.</sub>
 
 ## Qué resuelve
 
@@ -24,6 +22,18 @@ Los entrenadores llevaban a cada cliente con hojas de cálculo, PDFs y mensajes 
 - **Revisiones** periódicas entre entrenador y cliente.
 - **Control interno de pagos**.
 - **Panel** con gráficas de evolución.
+
+## Vista del entrenador
+
+![Panel del entrenador](./images/panel-entrenador.png)
+
+![Lista de clientes](./images/clientes.png)
+
+![Constructor de dietas con macros](./images/dieta.png)
+
+![Ejercicios del día y series por grupo muscular](./images/entrenamiento.png)
+
+![Seguimiento del peso y medidas](./images/seguimiento.png)
 
 ## Cómo está hecho
 
