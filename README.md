@@ -17,7 +17,9 @@ App web en producción: el entrenador gestiona a sus clientes (dieta, rutina y s
 
 Next.js · React · TypeScript · PostgreSQL · Prisma · Zod · Auth.js · Vitest · Playwright
 
-**+2.000 tests** · 27 tablas · 16 módulos · permisos comprobados en el servidor.
+**+2.000 tests** · 27 tablas · 70 pantallas.
+
+**Decisiones técnicas:** monolito modular en 16 módulos de dominio · permisos comprobados siempre en el servidor · lógica de negocio (macros, métricas) separada de React y de la base de datos.
 
 ## Mi papel
 
